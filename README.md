@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Tree
 |  |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
