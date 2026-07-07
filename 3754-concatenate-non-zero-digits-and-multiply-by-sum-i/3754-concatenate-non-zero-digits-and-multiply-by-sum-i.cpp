@@ -7,7 +7,8 @@ public:
         while (temp > 0) {
             int rem = temp % 10;
             if (rem > 0) {
-                s += char(rem + '0');
+                //s += char(rem + '0');
+                s = s + to_string(rem);
                 sum += rem;
             }
             temp /= 10;
