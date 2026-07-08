@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0179-largest-number) |
 | [0605-can-place-flowers](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0605-can-place-flowers) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2553-separate-the-digits-in-an-array](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/2553-separate-the-digits-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0050-powx-n) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
