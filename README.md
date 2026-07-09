@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0605-can-place-flowers) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2553-separate-the-digits-in-an-array](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/2553-separate-the-digits-in-an-array) |
+| [2784-check-if-array-is-good](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/2784-check-if-array-is-good) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0179-largest-number) |
+| [2784-check-if-array-is-good](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/2784-check-if-array-is-good) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/2553-separate-the-digits-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [2784-check-if-array-is-good](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/2784-check-if-array-is-good) |
 <!---LeetCode Topics End-->
