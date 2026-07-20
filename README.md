@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0238-product-of-array-except-self) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
