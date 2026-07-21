@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0739-daily-temperatures) |
+| [0905-sort-array-by-parity](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0455-assign-cookies) |
+| [0905-sort-array-by-parity](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0455-assign-cookies) |
+| [0905-sort-array-by-parity](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2784-check-if-array-is-good](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/2784-check-if-array-is-good) |
