@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0605-can-place-flowers) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/2784-check-if-array-is-good) |
@@ -181,13 +185,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
