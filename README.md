@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2784-check-if-array-is-good](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/2784-check-if-array-is-good) |
+| [3536-maximum-product-of-two-digits](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0509-fibonacci-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
