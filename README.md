@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
