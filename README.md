@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0509-fibonacci-number](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
