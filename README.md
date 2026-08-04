@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0905-sort-array-by-parity) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0206-reverse-linked-list) |
 ## Number Theory
 |  |
@@ -241,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0877-stone-game) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
