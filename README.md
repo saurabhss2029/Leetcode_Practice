@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/2784-check-if-array-is-good) |
+| [3731-find-missing-elements](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2784-check-if-array-is-good](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/2784-check-if-array-is-good) |
 | [3536-maximum-product-of-two-digits](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2540-minimum-common-value](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/2784-check-if-array-is-good) |
+| [3731-find-missing-elements](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/3731-find-missing-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
