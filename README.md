@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0905-sort-array-by-parity) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0206-reverse-linked-list) |
 ## Number Theory
 |  |
@@ -248,4 +251,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
