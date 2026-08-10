@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0075-sort-colors) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0074-search-a-2d-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## String
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0054-spiral-matrix) |
 | [2390-removing-stars-from-a-string](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
