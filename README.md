@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/2390-removing-stars-from-a-string) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Tree
 |  |
