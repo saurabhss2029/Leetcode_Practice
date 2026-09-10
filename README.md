@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0938-range-sum-of-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0938-range-sum-of-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0938-range-sum-of-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Stack
 |  |
 | ------- |
