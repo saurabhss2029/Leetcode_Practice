@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0509-fibonacci-number](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -379,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
