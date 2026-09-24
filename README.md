@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0213-house-robber-ii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -308,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Heap (Priority Queue)
@@ -395,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
