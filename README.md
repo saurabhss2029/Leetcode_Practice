@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0056-merge-intervals) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0113-path-sum-ii) |
 ## Union-Find
@@ -413,4 +415,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
