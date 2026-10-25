@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0875-koko-eating-bananas](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2540-minimum-common-value](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/2540-minimum-common-value) |
 ## Matrix
