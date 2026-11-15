@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0206-reverse-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Number Theory
 |  |
 | ------- |
