@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0206-reverse-linked-list) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saurabhss2029/Leetcode_Practice/tree/master/0142-linked-list-cycle-ii) |
